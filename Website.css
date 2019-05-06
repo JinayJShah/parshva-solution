@@ -1,0 +1,21 @@
+body {
+    background-color: aliceblue;
+}
+h1.Company_name {
+    color: brown; 
+    font-size:30px;
+    text-align: center;
+}
+h2.Application {
+    color: black; 
+    font-size:20px;
+    text-align: left;
+}
+div {
+    text-align: center;
+}
+a {
+    font-size: 25px; 
+    margin-right: 25px;
+    
+}

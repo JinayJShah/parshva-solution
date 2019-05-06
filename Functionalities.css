@@ -1,0 +1,9 @@
+body {
+    background-color: aliceblue;
+}
+p.Company_name {
+    color: brown; font-size:30px; text-align: center
+}
+p.Application {
+    color: black; font-size:10px;text-align: right
+}
